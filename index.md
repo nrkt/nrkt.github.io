@@ -1,17 +1,15 @@
-# Kenta Nohara
-
-## Links
+# Links
 - [GitHub](https://github.com/nrkt)
 - [AtCoder](https://atcoder.jp/users/nrkt)
 
-## Education  
+# Educations  
 **Department of Intelligent Systems, Graduate School of Informatics, Nagoya University, Japan (Master Degree)**  
 Apr. 2021 - Now.  
   
 **Department of Computer Science, School of Informatics, Nagoya University, Japan (Bachelor Degree)**  
 Apr. 2017 - Mar. 2021  
 
-## Internships
+# Internships
 **Server-side Engineer at mixi Group**  
 Feb. 2022 - Mar. 2022  
 
@@ -33,12 +31,12 @@ Aug. 2021
 **Server-side Engineer at OnePile Co., Ltd.**  
 Jan. 2021 - Dec. 2021  
 
-## Experiences
+# Experiences
 **Languages**  
 Python, C/C++, JavaScript, HTML/CSS, Go, Ruby  
 
 **Frameworks**  
-Tensorflow/Keras, FastAPI, Flask, Ruby on Rails  
+Tensorflow/Keras, FastAPI, Flask, Padrino  
 
 **Tools**  
 Git, Docker, MySQL, PostgreSQL, Redis, Grpc, Bazel, Make, Cmake  
@@ -47,7 +45,7 @@ Git, Docker, MySQL, PostgreSQL, Redis, Grpc, Bazel, Make, Cmake
 - ICPC Asia Yokohama Resional 2020 (Asian Qualifying)
 - ICPC Asia Yokohama Resional 2021 (Asian Qualifying)  
 
-## Certificates  
+# Certificates  
 - Database Specialist Examination (DB)
 - Applied Information Technology Engineer Examination (AP)
 - TOEIC L&R 755

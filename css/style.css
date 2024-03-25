@@ -51,7 +51,9 @@ header a {
 }
 
 p {
-    margin-left: 20px;
+    font-size: 16px;
+    padding-top: 5px;
+    margin-left: 3%;
 }
 
 dl {
